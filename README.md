@@ -1,10 +1,41 @@
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31jt6acdttrzabim5u6qrmhdwqge">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jt6acdttrzabim5u6qrmhdwqge&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=jyasuu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyasuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyasuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+<p align="center">
+<a href="https://github.com/jyasuu" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=jyasuu&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" /></a>
+<a href="https://github.com/jyasuu" target="blank"><img align="center" src="https://img.shields.io/github/followers/jyasuu?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
+</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyasuu&&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,LongTimeUser,AncientUser,Stars,Followers,Repositories,Issue,PullRequest" alt="jyasuu" /></a> </p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyasuu&show_icons=true&locale=en&layout=compact" alt="jyasuu" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jyasuu&show_icons=true&locale=en" alt="jyasuu" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jyasuu&" alt="jyasuu" /></p>
 
 ###
 
@@ -142,45 +173,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jyasuu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://open.spotify.com/user/31jt6acdttrzabim5u6qrmhdwqge">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jt6acdttrzabim5u6qrmhdwqge&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
-###
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyasuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyasuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jyasuu/jyasuu/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-<p align="center">
-<a href="https://github.com/jyasuu" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=jyasuu&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" /></a>
-<a href="https://github.com/jyasuu" target="blank"><img align="center" src="https://img.shields.io/github/followers/jyasuu?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
-</p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyasuu&&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,LongTimeUser,AncientUser,Stars,Followers,Repositories,Issue,PullRequest" alt="jyasuu" /></a> </p>
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyasuu&show_icons=true&locale=en&layout=compact" alt="jyasuu" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jyasuu&show_icons=true&locale=en" alt="jyasuu" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jyasuu&" alt="jyasuu" /></p>
