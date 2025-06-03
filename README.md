@@ -1,5 +1,67 @@
 
 ###
+```mermaid
+---
+---
+config:
+  kanban:
+    ticketBaseUrl: 'https://github.com/jyasuu/#TICKET#'
+---
+
+kanban
+  🧠 Languages
+    [#️⃣ C# ]
+    [☕ Java]
+    [🌐 TypeScript / JavaScript]
+    [🐍 Python]
+    [🐹 Golang]
+    [🦀 Rust]
+
+  🧱 Frameworks
+    [🧩 .NET]
+    [🚀 Spring Boot]
+    [⚛️ React]
+    [🖼️ Vue.js]
+    [📦 Next.js]
+
+  🛢️ Databases & Storage
+    [🐘 PostgreSQL]
+    [🏛️ Oracle]
+    [🧠 MSSQL]
+    [🔥 MongoDB]
+    [💾 Redis]
+    [🔍 Elasticsearch]
+    [📦 MinIO]
+    [🔐 Vault]
+
+  ⚙️ DevOps & Tooling
+    [🐳 Docker]
+    [🛠️ GitLab CI/CD]
+    [📦 Ansible]
+    [☸️ Kubernetes]
+    [🌐 Nginx]
+    [📈 Prometheus]
+    [📉 Grafana]
+    [📬 RabbitMQ]
+    [🧾 Graylog]
+    [🌍 Terraform]
+
+  🚀 Other Skills
+    [🏗️ System Architecture Design]
+    [🔄 CI/CD Pipeline Automation]
+    [🚦 System Performance Optimization]
+    [📡 Log & Metrics Monitoring]
+    [📤 Database Migration ]
+    [🗣️ Multilingual: 中文 / English / 日本語]
+
+```
+
+
+---
+
+
+
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
