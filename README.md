@@ -39,20 +39,15 @@ kanban
     [🛠️ GitLab CI/CD]
     [📦 Ansible]
     [☸️ Kubernetes]
-    [🌐 Nginx]
     [📈 Prometheus]
     [📉 Grafana]
-    [📬 RabbitMQ]
     [🧾 Graylog]
     [🌍 Terraform]
 
   🚀 Other Skills
-    [🏗️ System Architecture Design]
-    [🔄 CI/CD Pipeline Automation]
-    [🚦 System Performance Optimization]
-    [📡 Log & Metrics Monitoring]
-    [📤 Database Migration ]
-    [🗣️ Multilingual: 中文 / English / 日本語]
+    [🌐 Nginx]
+    [📬 RabbitMQ]
+    [📦 Tailwindcss]
 
 ```
 
